@@ -1,6 +1,12 @@
 # lit-sh
 Tiny lit module to manage shell commands (Modified from [zserge/luash](https://github.com/zserge/luash)).
 
+### Install
+
+```sh
+$ lit install james2doyle/sh
+```
+
 ### Usage
 
 Unlike [zserge/luash](https://github.com/zserge/luash), we do not expose anything to `_G`. Instead this module just uses the `sh.command` function directly.
