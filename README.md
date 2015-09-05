@@ -1,4 +1,6 @@
-# lit-sh
+sh
+=======
+
 Tiny lit module to manage shell commands (Modified from [zserge/luash](https://github.com/zserge/luash)).
 
 ### Install
